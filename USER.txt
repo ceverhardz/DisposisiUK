@@ -1,0 +1,8 @@
+username : superadmin
+password : 12345
+username : admin
+password : 12345
+username : user1
+password : user1
+
+user bisa dibuat sendiri di setting 
